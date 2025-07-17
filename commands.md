@@ -1,5 +1,6 @@
 # Djando useful commands
 
+Project based on https://www.amazon.com/Django-Impatient-concepts-develop-applications/dp/1835461557
 ## Creating a django project
 
 ```bash
