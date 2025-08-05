@@ -33,3 +33,16 @@ python3 manage.py createsuperuser
 
 python3 manage.py changepassword <username>
 ```
+
+
+## Creating Accounts app
+```bash
+python3 manage.py startapp accountss
+```
+
+## Start Lampp server
+```bash
+alias startlampp='sudo /opt/lampp/lampp start'
+```
+
+
